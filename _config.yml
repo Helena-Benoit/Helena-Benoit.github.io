@@ -1,0 +1,67 @@
+# Site
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         author: "Helena Pikhartova"
+         layout: post
+         lang: en
+         base-url: "/"
+    -
+     scope:
+         path: cz
+     values:
+         lang: cz
+         base-url: "/cz/"
+
+reading_time:       false
+words_per_minute:   200
+logo:               'assets/img/logo.jpg'
+background:         'assets/img/intro.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                https://excitedpositron.github.io/benanhel.github.io/
+title:		    Benoit & Helena		    
+
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+
+# Comments
+disqus_shortname:   excitedpositron-github-io
+
+# Social
+google:
+  analytics:		UA-115436794-1
+email:			helena.pikhartova@gmail.com
+
+# Gems
+plugins_dir: [
+  "jekyll-mentions",
+  "jekyll-feed",
+  "jekyll-sitemap",
+  "jekyll-i18n"
+]
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
+timezone: Europe/Geneva

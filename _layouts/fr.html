@@ -19,9 +19,10 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
+		    {{ content }}
                 </div>
                 <div class="post-list">
-                    {% for post in site.categories.fr %} 
+                    {% for post in site.categories.pages %} 
                         {% if post.fr %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">

@@ -4,10 +4,6 @@ title: Svatba Helena a Benoit
 comments: false
 ---
 
-Ahoj,
+Ahoj! Jste srdečně zváni na naší svatbu, která se koná 20. července 2019 v 14:30 v Zahradách pod Pražským hradem na Praze 1. Na této stránce najdete další praktické informace. Prosíme odpovězte na naši pozvánku <a href="https://helena-benoit.github.io//rsvp-en/" >ZDE</a> !!!
 
-
-
-
-Hello! We would like to invite you to the wedding which will happen in the Gardens below the Prague castle in Prague, Czech Republic on Saturday 20th of July, 2019 at 14:30. This website provides with practical information. Please <a href="https://helena-benoit.github.io//rsvp-en/" >RSVP</a> !!!
 

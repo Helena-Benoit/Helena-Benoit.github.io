@@ -11,13 +11,13 @@ feature: "/assets/img/us/us6.jpg"
 
 ### Helena
 * Email: helena.pikhartova@gmail.com
-* Telephone: +420 728 934 627
+* Phone: +420 728 934 627
 * Skype: helena_pikhartova
 
 ### Benoit
 * Email: lefebvrebn@gmail.com
-* Telefon: +33 6 41 51 98 66
-* Skype: benoit_90
+* Phone: +33 6 41 51 98 66
+* Skype: live:lefebvre.bn
 
 ### Or just send us a message from right here:
 

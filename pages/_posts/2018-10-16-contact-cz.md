@@ -17,7 +17,7 @@ feature: "/assets/img/us/us6.jpg"
 ### Benoit
 * Email: lefebvrebn@gmail.com
 * Telefon: +33 6 41 51 98 66
-* Skype: benoit_90
+* Skype: live:lefebvre.bn
 
 ### Nebo nám napište zprávu přímo tady:
 

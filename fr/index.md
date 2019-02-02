@@ -1,15 +1,18 @@
 ---
 layout: fr
-title: Benoit Lefebvre et Helena Pikhartová
+title: Mariage de Benoit et d'Helena
 excerpt: "Invitation"
 comments: false
 ---
 
+Bonjour et bienvenue sur notre page! Nous vous invitons cordialement à venir
+célébrer notre mariage. La cérémonie aura lieu à 14h30, le samedi 20 juillet
+2019, aux Jardins sous le Château de Prague, à Prague, en République
+Tchèque. Vous pouvez répondre à l'invitation
+<a href="https://helena-benoit.github.io//rsvp-fr/">ici</a>. Cette page contient
+de l'information pratique concernant le mariage incluant l'horaire de la journée
+et des conseils de voyage. Elle sera mise à jour régulièrement pour vous tenir
+au courant.
 
-vous invitent à venir célébrer leur union. La cérémonie aura lieu à 14h30 aux
-Jardins sous le Château de Prague en République Tchèque. Vous trouverez les
-informations nécessaires pour vous y rendre dans la section Informations
-pratiques. Veuillez répondre dès que possible à cette invitation dans la
-section Réponse. N'hésitez pas à visiter les autres pages du site d'autres
-informations ludiques et pratique ainsi que pour mieux nous connaître.
+
 

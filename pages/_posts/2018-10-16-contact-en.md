@@ -15,7 +15,7 @@ feature: "/assets/img/us/us6.jpg"
 * Skype: helena_pikhartova
 
 ### Benoit
-* Email: lefebvrebn@gmail.com
+* Email: lefebvre.bn@gmail.com
 * Phone: +33 6 41 51 98 66
 * Skype: live:lefebvre.bn
 

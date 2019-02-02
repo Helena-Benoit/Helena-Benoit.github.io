@@ -9,13 +9,13 @@ feature: "/assets/img/us/us6.jpg"
 ---
 
 ### Benoit
-* Courriel: lefebvre.bn<at>gmail.com
+* Courriel: lefebvre.bn@gmail.com
 * Téléphone: +33 6 41 51 98 66
 * Skype: live:lefebvre.bn
 
 
 ### Helena
-* Courriel: helena.pikhartova<at>gmail.com
+* Courriel: helena.pikhartova@gmail.com
 * Téléphone: +420 728 934 627
 * Skype: helena_pikhartova
 

@@ -18,8 +18,6 @@ layout: compress
           <!--div class="post-title {% if page.feature %} feature {% endif %}"-->
 	  <div class="cover-banner {% if page.feature %} feature {% endif %}">
             <h1>{{ page.title }}</h1>
-            <!--h4>{{ page.date | date_to_string }}</h4-->
-            
 {% if page.cz %}
 <a class="btn zoombtn" href="{{site.url}}/cz/">
   <i class="fa fa-chevron-left"></i>
@@ -29,7 +27,7 @@ layout: compress
   <i class="fa fa-chevron-left"></i>
 </a>
 {% else if page.fr %}
-<a class="btn zoombtn" href="https://helena-benoit.github.io/fr/">
+<a class="btn zoombtn" href="{{site.url}}/cz/">
   <i class="fa fa-chevron-left"></i>
 </a>
 {% endif %}

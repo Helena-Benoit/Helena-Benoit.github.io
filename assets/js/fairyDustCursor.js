@@ -1,7 +1,3 @@
----
-layout: home
----
-
 /*!
  * Fairy Dust Cursor.js
  * - 90's cursors collection

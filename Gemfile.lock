@@ -46,7 +46,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    json (2.0.2)
+    json (2.3.0)
     kramdown (1.17.0)
     liquid (4.0.0)
     listen (3.1.5)
@@ -93,7 +93,7 @@ DEPENDENCIES
   jekyll-i18n
   jekyll-mentions
   jekyll-sitemap
-  json (= 2.0.2)
+  json (= 2.3.0)
 
 BUNDLED WITH
    1.16.5

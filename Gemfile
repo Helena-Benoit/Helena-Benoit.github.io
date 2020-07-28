@@ -10,4 +10,4 @@ gem 'jekyll-analytics'
 #gem 'jekyll-multiple-languages-plugin'
 #gem 'liquid'
 gem 'jekyll-i18n'
-gem "json", "2.0.2"
+gem "json", "2.3.0"
